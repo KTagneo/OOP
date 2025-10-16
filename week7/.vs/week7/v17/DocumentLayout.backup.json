@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vhzpt\\Desktop\\Yonsei\\OOP\\In class\\week7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{238FF1AA-EE23-4CF9-860A-8BA5A2937478}|week7\\week7.vcxproj|C:\\Users\\vhzpt\\Desktop\\Yonsei\\OOP\\In class\\week7\\week7\\ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{238FF1AA-EE23-4CF9-860A-8BA5A2937478}|week7\\week7.vcxproj|solutionrelative:week7\\ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex1.cpp",
+              "DocumentMoniker": "C:\\Users\\vhzpt\\Desktop\\Yonsei\\OOP\\In class\\week7\\week7\\ex1.cpp",
+              "RelativeDocumentMoniker": "week7\\ex1.cpp",
+              "ToolTip": "C:\\Users\\vhzpt\\Desktop\\Yonsei\\OOP\\In class\\week7\\week7\\ex1.cpp",
+              "RelativeToolTip": "week7\\ex1.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T08:01:45.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
