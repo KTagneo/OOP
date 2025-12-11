@@ -78,8 +78,8 @@ int main() {
 
 
     // TASK 13: virtual destructor check
-    Shape* a = new Circle("Yellow", 2.0);
-    delete a;
+    Shape* A = new Circle("Yellow", 2.0);
+    delete A;
 
     return 0;
 }
